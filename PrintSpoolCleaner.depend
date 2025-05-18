@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1383793182 source:e:\printspoolcleaner\resource.rc
+	<windows.h>
+
+1383792516 source:e:\printspoolcleaner\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+
